@@ -1,0 +1,13 @@
+#btn1 {
+	width: 200px;
+}
+
+#main {
+	background-color: rgba(0, 0, 0, 0.3);
+	backdrop-filter: blur(10px);
+	/* display: flex;
+	justify-content: center;
+	align-items: center; */
+	border-radius: 50px;
+	
+}
